@@ -177,7 +177,12 @@ text-align: center;
     grid-template-columns : repeat(2, 1fr);
     grid-gap : 20px;
 }
-
+.a{
+    background:red;
+}
+.aa{
+    background: green;
+}
 .project-btn{
     height : 40px;
     text-transform: capitalize;
