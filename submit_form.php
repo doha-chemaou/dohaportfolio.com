@@ -2,7 +2,7 @@
 if(isset($_POST['submit'])){
     $name = $_POST['name'];
     $emailfrom = $_POST["email"];
-    $message = $_POST["message"];
+    $message = $_POST["msg"];
 
     $mailto = "dohachh@outlook.fr";
     $headers = "From: ".$mailfrom;
