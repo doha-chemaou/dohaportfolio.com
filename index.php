@@ -233,7 +233,7 @@
 
 <!-- contact section  -->
 <section class="contact-section">
-    <form class="contact-form" method="post" action="submit_form.php">
+    <form class="contact-form" method="post" action="">
         <input type="text" name="name" id="name" autocomplete="off" placeholder="name">
         <input type="text" name="email" id="email" autocomplete="off" placeholder="email">
         <textarea name="msg" id="msg" placeholder = "message" autocomplete = "off"></textarea>
